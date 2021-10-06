@@ -1,8 +1,6 @@
 # Gmail-spam
 Google
 
-<br />
-<br />
 
 ### Prerequisites:
 
