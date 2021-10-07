@@ -1,4 +1,4 @@
-# Gmail-spam
+# Gmail-spam-classification
 Google
 
 
