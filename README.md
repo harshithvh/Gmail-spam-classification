@@ -8,11 +8,7 @@ Python-Machine Learning
   <img alt="Visual Studio Code" width="1080px" src="https://www.bestproxyreviews.com/wp-content/uploads/2020/07/Bad-Conversion-bot.jpg" />
 </p>
 
----
-
 ## About:
-
----
 
 We all face the problem of spams in our inboxes. Email spam, are also called as junk emails, are unsolicited messages sent in bulk by email (spamming).Popular email providers like Gmail use spam classifier programs which can tell whether a given message is spam or not!
 
@@ -22,6 +18,7 @@ Classification is a process of a given set of data into classes, It can be perfo
 Extract the text and the target class from the dataset. Extract the features of the test using TF-IDF vectorizer for the Input features.Split the skewed data into shuffled sets using stratified shuffle split in sklearn library. Use standard classifiers to classify the data into spam or ham.
 
 ## Prerequisites:
+
 -  `Python`
 -  `scikit-learn` / `sklearn`
 -  `Pandas`
