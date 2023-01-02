@@ -1,7 +1,7 @@
 # Gmail-spam-classification
 Python-Machine Learning 
 
-![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![sklearn](https://img.shields.io/badge/Library-NLTK-orange.svg)
+![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![sklearn](https://img.shields.io/badge/Library-sklearn-orange)
 
 <p align="center">
   <br>
