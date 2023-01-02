@@ -5,7 +5,9 @@ Python-Machine Learning
 
 <img align="left" alt="Visual Studio Code" width="1080px" src="https://www.bestproxyreviews.com/wp-content/uploads/2020/07/Bad-Conversion-bot.jpg" />
 
-# About
+---
+
+## About:
 
 ---
 
@@ -27,7 +29,7 @@ Extract the text and the target class from the dataset. Extract the features of 
 ## Dataset:
 The SMS/Email Spam Collection is a set of SMS tagged messages that have been collected for SMS/Email Spam research. It contains one set of SMS messages in English of 5,567 messages, tagged according being ham (legitimate) or spam.
 
-> You can collect raw dataset from [here](https://raw.githubusercontent.com/ShubhamPy/Spam-Classifier/master/spam.tsv).
+> You can collect raw dataset from [here](https://github.com/harshithvh/Gmail-spam-classification/blob/main/spam.tsv).
 
 The files contain one message per line. Each line is composed by two columns:
 - `Class`- contains the label (ham or spam) 
