@@ -3,7 +3,10 @@ Python-Machine Learning
 
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-NLTK-orange.svg)
 
-<img align="left" alt="Visual Studio Code" width="1080px" src="https://www.bestproxyreviews.com/wp-content/uploads/2020/07/Bad-Conversion-bot.jpg" />
+<p align="center">
+  <br>
+  <img alt="Visual Studio Code" width="1080px" src="https://www.bestproxyreviews.com/wp-content/uploads/2020/07/Bad-Conversion-bot.jpg" />
+</p>
 
 ---
 
